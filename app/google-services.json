@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505033754344",
+    "project_id": "fdonate-d38de",
+    "storage_bucket": "fdonate-d38de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505033754344:android:ae07139ca3eb98a8abeb5d",
+        "android_client_info": {
+          "package_name": "com.example.fdonate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505033754344-1uejqo36qh25ml8k4p2oaa5jqrndg5ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMnoq8wfF2Y8cBvM5oqxrUt2kakqGJlO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505033754344-1uejqo36qh25ml8k4p2oaa5jqrndg5ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
